@@ -1,6 +1,6 @@
 # JTS-HW4-Pandas
 
-This week’s assignment finds us using Pandas library with Jupyter Notebook as its interface.  The extensive use of dataframes allow the budding Data Scientist to manipulate and extract data based on series within the dataset.  The homework asked us to analyzing city school data or sales data of a video game.  The Heroes of Pymoli assignment asked us to get a total count of unique players.  It asked to analyze data grouped by gender of players and purchasing.  We also created subgroups based on age to look at player counts and purchasing trends.  Finally, we created charts to view most popular based on purchase count and most profitable based on total purchase value.
+This week’s assignment finds us using Pandas library with Jupyter Notebook as its interface.  The extensive use of dataframes allows the budding Data Scientist to manipulate and extract data based on series within the dataset.  The homework asked us to analyzing city school data or sales data of a video game.  The Heroes of Pymoli assignment asked us to get a total count of unique players.  It asked to analyze data grouped by gender of players and purchasing.  We also created subgroups based on age to look at player counts and purchasing trends.  Finally, we created charts to view most popular based on purchase count and most profitable based on total purchase value.
 
 
 Trend #1
